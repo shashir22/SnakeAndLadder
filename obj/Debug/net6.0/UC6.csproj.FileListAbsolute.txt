@@ -1,0 +1,15 @@
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\bin\Debug\net6.0\UC6.exe
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\bin\Debug\net6.0\UC6.deps.json
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\bin\Debug\net6.0\UC6.runtimeconfig.json
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\bin\Debug\net6.0\UC6.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\bin\Debug\net6.0\ref\UC6.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\bin\Debug\net6.0\UC6.pdb
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\obj\Debug\net6.0\UC6.csproj.AssemblyReference.cache
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\obj\Debug\net6.0\UC6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\obj\Debug\net6.0\UC6.AssemblyInfoInputs.cache
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\obj\Debug\net6.0\UC6.AssemblyInfo.cs
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\obj\Debug\net6.0\UC6.csproj.CoreCompileInputs.cache
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\obj\Debug\net6.0\UC6.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\obj\Debug\net6.0\ref\UC6.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\obj\Debug\net6.0\UC6.pdb
+C:\Users\shashiRgowda\Desktop\.Net Projects\SnakeAndLadder_UC1\UC6\obj\Debug\net6.0\UC6.genruntimeconfig.cache
